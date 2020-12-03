@@ -55,7 +55,7 @@
                IF WS-CNT = ( 3 or 6 or 9 or 12 or 15 or 18 or 21 or 24
                    or 27 or 29  )
 
-                   THEN
+                  THEN
 
                DISPLAY  'SUM: 'WS-J
                INITIALIZE WS-J
