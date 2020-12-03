@@ -1,6 +1,6 @@
 #  Cobol Overview
 
-You can use modify and If some errors in the code then give me a message anytime;                                                              
+You can use-modify and If some errors in the code then give me a message anytime;                                                              
 Mail ID. malayjyotidebnath@gmail.com                                                                
 Phone No. +917001668548
                                                                                                                                   
