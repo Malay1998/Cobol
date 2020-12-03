@@ -1,7 +1,9 @@
 # Cobol
 
-You can use modify and If some errors in the code then give me a message anytime;
-Mail ID. malayjyotidebnath@gmail.com
+You can use modify and If some errors in the code then give me a message anytime;                                                              
+
+Mail ID. malayjyotidebnath@gmail.com                                                                
+
 Phone No. +917001668548
                                                                                                                                   
                                                                                                                                   
@@ -9,5 +11,6 @@ Please check, file description in .cob file extention appropreatly thus you can 
 //* Files are disoriented while uploading; It is better to download all the files and then try to understand the code while executing it.
 All the above Cobol programme are performed in OPENCobolIDE.                                                                             
 
-Regards,
+Regards,                                                                                                                              
+
 Malay Jyoti Debnath
