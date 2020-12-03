@@ -9,12 +9,11 @@
        01 WS-E PIC X(7).
        PROCEDURE DIVISION.
        MAIN-PARA.
-           DISPLAY "    MY NAME IS MALAY.".
+           DISPLAY "MY NAME IS MALAY.".
 
            IF WS-A LESS THAN WS-B
                DISPLAY WS-C
                END-IF.
                    MOVE WS-D TO WS-E
                    DISPLAY WS-E
-
            STOP RUN.
